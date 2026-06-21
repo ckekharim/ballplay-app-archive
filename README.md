@@ -1,2 +1,14 @@
 # ballplay-app-archive
-HTML page archive and documentation
+
+自动生成页面存放处
+
+页面发布任务会把结果保存到此仓库，方便统一管理。
+
+## 保存位置
+
+- 页面文件默认保存在仓库根目录
+- 说明文件保存在 `README.md`
+
+## 更新记录
+
+仓库会根据发布流程持续更新，内容以实际提交为准。
